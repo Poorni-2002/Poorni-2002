@@ -1,8 +1,9 @@
 # <div align="center">🌈✨ Hey there! I'm Poorni ✨🌈</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=FF0080&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%F0%9F%92%96+Web+Developer+%F0%9F%92%96;%F0%9F%8C%9F+IT+Student+%F0%9F%8C%9F;%F0%9F%A6%84+Creative+Coder+%F0%9F%A6%84;%F0%9F%9A%80+Dream+Chaser+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=FF0080&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%F0%9F%92%96+Web+Developer+%F0%9F%92%96;%F0%9F%8C%9F+HND+IT+Student+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
